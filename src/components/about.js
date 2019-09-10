@@ -11,7 +11,7 @@ export default class About extends Component{
                     <h1 className="mb-0">Sunil
                     <span className="text-primary">Nuthalapati</span>
                     </h1>
-                    <div className="subheading mb-5">Philadelphia · PA · (972) 571-9578 ·
+                    <div className="subheading mb-5">Houston · TX · (972) 571-9578 ·
                     <a href="mailto:sunil.nuthalapati@gmail.com">sunil.nuthalapati@gmail.com</a>
                     </div>
                     <p className="mb-5"> Consulting project lead and nimble full stack developer for many flagship projects and delivered high performing
@@ -27,7 +27,7 @@ export default class About extends Component{
                         </a>
                     </li>
                     <li className="list-inline-item">
-                        <a href="https://github.com/bitbytes01">
+                        <a href="https://github.com/isunil">
                         <span className="fa-stack fa-lg">
                             <i className="fa fa-circle fa-stack-2x"></i>
                             <i className="fa fa-github fa-stack-1x fa-inverse"></i>
