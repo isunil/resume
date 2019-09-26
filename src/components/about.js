@@ -14,7 +14,7 @@ export default class About extends Component{
                     <div className="subheading mb-5">Houston · TX · (972) 571-9578 ·
                     <a href="mailto:sunil.nuthalapati@gmail.com">sunil.nuthalapati@gmail.com</a>
                     </div>
-                    <p className="mb-5"> Consulting project lead and nimble full stack developer for many flagship projects and delivered high performing
+                    <p className="mb-5">  Nimble senior full stack developer for many flagship projects and delivered high performing
                     solutions with fully automated CI/CD pipeline and industry best practices.
                     </p>
                     <ul className="list-inline list-social-icons mb-0">
