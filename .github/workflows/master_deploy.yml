@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [8.x]
+        node-version: [10.x]
     steps:
     - uses: actions/checkout@v1
     - name: Use Node.js ${{ matrix.node-version }}
@@ -21,4 +21,5 @@ jobs:
       run: |
         git config --global user.email ${{secrets.GITHUBEMAIL}}
         git config --global user.name  ${{secrets.GITHUBUSERNAME}}
+        git remote set-url origin https://${{secrets.GITHUBREPOTOKEN}}@github.com/${{secrets.GITHUBUSERNAME}}/resume.git
         yarn deploy
