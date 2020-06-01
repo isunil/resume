@@ -44,7 +44,8 @@ export default {
                 "responsibilities": "Volunteered to design, develop and host the nwacricket.com web portal to schedule, manage and maintain seasonal cricket tournaments for nonprofit NWA Cricket Community. Built with Angular, Javascript, RxJs, Html 5, CSS 3, Bootstrap, Typescript, NPM, this website hosted 5 seasons of tournaments.",
                 "stack": "Angular5, CSS, HTML, RxJs, Bootstrap, Typescript, NPM",
                 "duration": "June 2012 - Present",
-                "url": "http://www.nwacricket.com"
+                "url": "http://www.nwacricket.com",
+                "urlText": "www.nwacricket.com",
             }
         ]
     }
