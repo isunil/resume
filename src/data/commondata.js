@@ -1,15 +1,5 @@
 export default {
-
-    getNavLinkTexts() {
-
-        return [
-            "About",
-            "Experience",
-            "Education",
-            "Skills",
-            "Interests",
-            "Awards"
-        ];
-    }
-
-}
+  getNavLinkTexts() {
+    return ["About", "Experience", "Education", "Skills", "Interests", "Awards"];
+  }
+};

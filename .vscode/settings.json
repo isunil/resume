@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": false,
+  "javascript.format.enable": false,
+  "files.autoSave": "off",
+  "files.exclude": {
+    "**/.git": true,
+    "**/*.orig": true
+  },
+  "editor.rulers": [120],
+  "jshint.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
